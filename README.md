@@ -7,6 +7,7 @@ O **I’m Hungry!**, comprometido com eficiência operacional e impacto social, 
 ## 🛠 **Problema de Negócio**
 
 **Como garantir que os investimentos feitos em iniciativas de impacto social resultem em melhorias tangíveis tanto para o ecossistema quanto para o desempenho financeiro?**  
+
 Além disso, como mensurar e demonstrar claramente esse impacto às partes interessadas?
 
 Para responder a essas questões, estruturamos o problema em cinco perguntas principais:
