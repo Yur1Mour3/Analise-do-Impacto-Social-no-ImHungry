@@ -84,6 +84,8 @@ Foram definidos os seguintes KPIs para acompanhamento:
   
 - **Análise Geográfica**: Mapear quais regiões têm maior engajamento com as iniciativas e usar essa informação para direcionar campanhas mais localizadas.
 
+[Acesse o Painel aqui](https://app.powerbi.com/view?r=eyJrIjoiNjg2MDllY2YtYjNlNi00OGM1LThhYzMtNDQzZjI2MzBkYzJiIiwidCI6IjgxY2RjMzU5LTkwYWQtNGJjOC1iNTUyLTNlZjI1NzBhY2ZkMyJ9)
+
 ---
 ## 🧮 **Fórmulas DAX Utilizadas**
 
