@@ -35,7 +35,7 @@ Foi desenvolvido um modelo de dados para sustentar a análise. Ele inclui as seg
 
 ---
 
-## 🧐 **Principais Insights**
+## **Principais Insights**
 
 ### 1️⃣ **Impacto no Volume de Pedidos**
 - **160 mil pedidos** foram realizados no período de iniciativas (jan-jun/2023), representando **53,3% do total anual**.
