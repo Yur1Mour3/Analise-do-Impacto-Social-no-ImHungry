@@ -87,7 +87,7 @@ Foram definidos os seguintes KPIs para acompanhamento:
 [Acesse o Painel aqui](https://app.powerbi.com/view?r=eyJrIjoiNjg2MDllY2YtYjNlNi00OGM1LThhYzMtNDQzZjI2MzBkYzJiIiwidCI6IjgxY2RjMzU5LTkwYWQtNGJjOC1iNTUyLTNlZjI1NzBhY2ZkMyJ9)
 
 ---
-## 🧮 **Fórmulas DAX Utilizadas**
+## 🧮 **Códigos Utilizados**
 
 ```dax
 %PedidosIniciativa = [PedidosIniciativas]/[Pedidosseminiciativas]
