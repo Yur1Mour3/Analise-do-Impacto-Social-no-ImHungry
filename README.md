@@ -30,7 +30,7 @@ Foi desenvolvido um modelo de dados para sustentar a análise. Ele inclui as seg
 - **Satisfacao:** Avaliações de satisfação (NPS e comentários).
 - **Resultados_Financeiros:** Dados financeiros correlacionados às iniciativas sociais.
   
-![Logo do GitHub](https://miro.medium.com/v2/resize:fit:828/format:webp/1*cjuFsijlbgtHHGUJ7V9FWQ.jpeg)
+![Logo do GitHub](https://miro.medium.com/v2/resize:fit:828/format:webp/1*4GdBZ9-pzdFE-X6O_6PxZQ.jpeg)
 
 [Acesse o Painel aqui](https://app.powerbi.com/view?r=eyJrIjoiNjg2MDllY2YtYjNlNi00OGM1LThhYzMtNDQzZjI2MzBkYzJiIiwidCI6IjgxY2RjMzU5LTkwYWQtNGJjOC1iNTUyLTNlZjI1NzBhY2ZkMyJ9)
 
