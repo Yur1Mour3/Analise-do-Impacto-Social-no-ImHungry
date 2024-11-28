@@ -243,3 +243,4 @@ TotalPedidos = COUNT(Pedidos[ID_Pedido])
 ```dax
 TotalRetornoFinanceiro = SUM(Resultados_Financeiros[valor_resultado])
 ```
+# [ Outros Projetos aqui](https://yurimoura.carrd.co/)
